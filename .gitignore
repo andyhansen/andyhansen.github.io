@@ -2,9 +2,6 @@
 #Ignore tools
 tools/*
 
-#Ignore output files
-output/*
-
 #Ignore generated config files
 config.wyam.dll
 config.wyam.hash
